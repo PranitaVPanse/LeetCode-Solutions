@@ -22,4 +22,3 @@ jobs:
     - name: Run Java Programs
       run: |
         java -cp src easy.twoSum  # Run the Java class (e.g., twoSum)
-	java -cp src easy.validParentheses
