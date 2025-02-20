@@ -22,5 +22,4 @@ jobs:
     - name: Run Java Programs
       run: |
         java -cp src easy.twoSum  # Run the Java class (e.g., twoSum)
-	java -cp src easy.validParentheses  # Run the Java class (e.g., validParentheses)
-	java -cp src easy.ListNode  # Run the Java class (e.g., ListNode)
+        java -cp src easy.validParentheses  # Run ValidParentheses.java
