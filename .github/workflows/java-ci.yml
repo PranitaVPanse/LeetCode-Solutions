@@ -23,5 +23,3 @@ jobs:
       run: |
         java -cp src easy.twoSum  # Run the Java class (e.g., twoSum)
         java -cp src easy.validParentheses  # Run ValidParentheses.java
-	java -cp src easy.ListNode  # Run ListNode.java
-	java -cp src easy.bestTimeBuySellStock  # Run bestTimeBuySellStock.java
