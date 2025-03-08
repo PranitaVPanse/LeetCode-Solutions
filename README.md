@@ -14,3 +14,6 @@ Below leetCode problems are solved and solutions are added:
 11) Majority Element
 12) Reverse String
 13) Diameter of Binary Tree
+14) Convert Sorted Array To BST
+15) Climbing Stairs
+16) Maximum Subarray
