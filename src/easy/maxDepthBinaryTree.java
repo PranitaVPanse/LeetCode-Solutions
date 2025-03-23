@@ -5,8 +5,8 @@ public class maxDepthBinaryTree {
 	public static void main(String[] args) {
 		// [3,9,20,null,null,15,7]
 		
-			TreeNode root = new TreeNode(3);
-			root.left = new TreeNode(9);
+			TreeNode root = new TreeNode(1);
+			root.left = new TreeNode(2);
 			root.right = new TreeNode(20);
 			root.left.left = new TreeNode(0);
 			root.left.right = new TreeNode(0);
